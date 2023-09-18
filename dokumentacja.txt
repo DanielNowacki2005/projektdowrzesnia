@@ -1,0 +1,14 @@
+requirments : 
+2 x label 
+3 texfield 
+2 button 
+2 imageview
+menu - is but dosen't do anythinhs
+application:
+It is simple version of rock-paper-scissors.
+You chose by clicking coresponding button or image.
+Once something is chosen you can click button "Play".
+Then computer will generate number between 1 and 3
+And then compare who won .
+Result will be shown on bottom.
+There is exit button.
